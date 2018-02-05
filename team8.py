@@ -7,7 +7,7 @@
 ####
 
 team_name = 'Integer' # Only 10 chars displayed.
-strategy_name = 'Nani?!'
+strategy_name = 'Nani!?'
 strategy_description = 'Collude until betrayed. betray  times util switching back. repeat process'
 ''' Arguments accepted: my_history, their_history are strings.
     my_score, their_score are ints.
